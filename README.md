@@ -1,3 +1,8 @@
+在now官网上搭建的vue项目
+
+
+
+
 # Vue.js Example
 
 地址：`https://vue.15204017864.now.sh`
