@@ -5,7 +5,7 @@
 
 # Vue.js Example
 
-地址：`https://vue.15204017864.now.sh`
+地址：https://vue.15204017864.now.sh
 
 ```
 Successfully aliased the URL https://vue-bqt1iqh78.now.sh to the following aliases:
